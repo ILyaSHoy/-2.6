@@ -1,0 +1,30 @@
+C:\Users\Илья Холошной\source\repos\№6,2\bin\Debug\№6,2.exe.config
+C:\Users\Илья Холошной\source\repos\№6,2\bin\Debug\№6,2.exe
+C:\Users\Илья Холошной\source\repos\№6,2\bin\Debug\№6,2.pdb
+C:\Users\Илья Холошной\source\repos\№6,2\obj\Debug\№6,2.csproj.AssemblyReference.cache
+C:\Users\Илья Холошной\source\repos\№6,2\obj\Debug\_6_2.Form1.resources
+C:\Users\Илья Холошной\source\repos\№6,2\obj\Debug\_6_2.Properties.Resources.resources
+C:\Users\Илья Холошной\source\repos\№6,2\obj\Debug\№6,2.csproj.GenerateResource.cache
+C:\Users\Илья Холошной\source\repos\№6,2\obj\Debug\№6,2.csproj.CoreCompileInputs.cache
+C:\Users\Илья Холошной\source\repos\№6,2\obj\Debug\№6,2.exe
+C:\Users\Илья Холошной\source\repos\№6,2\obj\Debug\№6,2.pdb
+C:\Users\Илья Холошной\source\repos\№6.2\bin\Debug\№6,2.exe.config
+C:\Users\Илья Холошной\source\repos\№6.2\bin\Debug\№6,2.exe
+C:\Users\Илья Холошной\source\repos\№6.2\bin\Debug\№6,2.pdb
+C:\Users\Илья Холошной\source\repos\№6.2\obj\Debug\№6,2.csproj.AssemblyReference.cache
+C:\Users\Илья Холошной\source\repos\№6.2\obj\Debug\_6_2.Form1.resources
+C:\Users\Илья Холошной\source\repos\№6.2\obj\Debug\_6_2.Properties.Resources.resources
+C:\Users\Илья Холошной\source\repos\№6.2\obj\Debug\№6,2.csproj.GenerateResource.cache
+C:\Users\Илья Холошной\source\repos\№6.2\obj\Debug\№6,2.csproj.CoreCompileInputs.cache
+C:\Users\Илья Холошной\source\repos\№6.2\obj\Debug\№6,2.exe
+C:\Users\Илья Холошной\source\repos\№6.2\obj\Debug\№6,2.pdb
+C:\Users\ILyaSHoy\Documents\GitHub\2.6\bin\Debug\№6,2.exe.config
+C:\Users\ILyaSHoy\Documents\GitHub\2.6\bin\Debug\№6,2.exe
+C:\Users\ILyaSHoy\Documents\GitHub\2.6\bin\Debug\№6,2.pdb
+C:\Users\ILyaSHoy\Documents\GitHub\2.6\obj\Debug\№6,2.csproj.AssemblyReference.cache
+C:\Users\ILyaSHoy\Documents\GitHub\2.6\obj\Debug\_6_2.Form1.resources
+C:\Users\ILyaSHoy\Documents\GitHub\2.6\obj\Debug\_6_2.Properties.Resources.resources
+C:\Users\ILyaSHoy\Documents\GitHub\2.6\obj\Debug\№6,2.csproj.GenerateResource.cache
+C:\Users\ILyaSHoy\Documents\GitHub\2.6\obj\Debug\№6,2.csproj.CoreCompileInputs.cache
+C:\Users\ILyaSHoy\Documents\GitHub\2.6\obj\Debug\№6,2.exe
+C:\Users\ILyaSHoy\Documents\GitHub\2.6\obj\Debug\№6,2.pdb
